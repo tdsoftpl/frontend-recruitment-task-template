@@ -17,7 +17,7 @@ export const AppDataContext = createContext<AppData>({
   character: null
 });
 
-export const AppDataContextProvider: React.FC = ({ children }) => {
+export const AppDataContextProvider = ({ children }: React.PropsWithChildren) => {
   const [isLoading, setIsLoading] = useState<AppData["isLoading"]>(false);
   const [characterData, setCharacterData] = useState<AppData["character"]>(
     null

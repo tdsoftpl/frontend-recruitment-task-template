@@ -2,7 +2,7 @@
 
 This recruitment assignment is designed to test your React v17 knowledge and ability to complete a given task by adding new features to the "real", existing codebase. This application uses CSS-in-JS for styling and the React-context API for state management.
 
-You have about 7 days to complete the recruitment task (counting from the date of receipt of the e-mail with the details). This is your unique instance of the recruitment task, please apply your solution directly here. There is no need to fold it anywhere. A recruiter from TDSOFT will check it right after the specified time.
+You have about 7 days to complete the recruitment task (counting from the date of receipt of the e-mail with the details). This is your unique instance of the recruitment task, please apply your solution directly here. There is no need to fork it anywhere. A recruiter from TDSOFT will check it right after the specified time.
 
 Imagine the current application you see on the right (in the "Browser" tab) as the first version of the "Rick & Morty widget" - a dead simple widget showing some basic data about characters from the show.
 
