@@ -1,6 +1,6 @@
 # TDSOFT Junior Frontend Developer Recruitment Task
 
-This recruitment assignment is designed to test your React v17 knowledge and ability to complete a given task by adding new features to the "real", existing codebase. This application uses CSS-in-JS for styling and the React-context API for state management.
+This recruitment assignment is designed to test your React knowledge and ability to complete a given task by adding new features to the "real", existing codebase. This application uses CSS-in-JS for styling and the React-context API for state management.
 
 You have about 7 days to complete the recruitment task (counting from the date of receipt of the e-mail with the details). This is your unique instance of the recruitment task, please apply your solution directly here. There is no need to fork it anywhere. A recruiter from TDSOFT will check it right after the specified time.
 
@@ -47,5 +47,6 @@ We'd love to hear your thoughts about this assignment. Feel free to submit your 
 
 If you have any issues or questions feel free to contact us directly at:
 
+- michal.pietrzyk@tdsoft.com
 - nikodem.nowak@tdsoft.com
-- adrian.celczynski@tdsoft.com
+- dariusz.kobuszewski@tdsoft.com
