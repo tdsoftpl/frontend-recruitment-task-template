@@ -1,0 +1,31 @@
+{
+  "setupTasks": [
+    {
+      "command": "yarn install",
+      "name": "Install Dependencies"
+    }
+  ],
+
+  "tasks": {
+    "start": {
+      "name": "start",
+      "command": "yarn run dev",
+      "runAtStart": true
+    },
+    "build": {
+      "name": "build",
+      "command": "yarn build",
+      "runAtStart": false
+    },
+    "start-prod": {
+      "name": "start-prot",
+      "command": "yarn run ",
+      "runAtStart": false
+    },
+    "eject": {
+      "name": "eject",
+      "command": "yarn eject",
+      "runAtStart": false
+    }
+  }
+}
