@@ -21,11 +21,6 @@
       "name": "start-prot",
       "command": "yarn run ",
       "runAtStart": false
-    },
-    "eject": {
-      "name": "eject",
-      "command": "yarn eject",
-      "runAtStart": false
     }
   }
 }
