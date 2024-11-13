@@ -3,7 +3,7 @@
 
 
 # How to submit your solution 📨
-1. Create own version of repository using Github [Template reposiotory](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
+1. Create own version of repository using Github [Template repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
    ![Use this template button](.assets/img.png)
 2. Work on the task in separate branch
 3. Once you're done, create a pull request to the `main` branch of your repository and share it with us.
