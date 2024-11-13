@@ -1,13 +1,18 @@
-# TDSOFT Junior Frontend Developer Recruitment Task
+# Rick & Morty App - TDSOFT Frontend Developer Recruitment Task
 ###### 2024
 
+
+# How to submit your solution
+1. Create own version of repository using ![Use this template button](.assets/img.png)
+2. Work on the task in separate branch
+3. Once you're done, create a pull request to the `main` branch of your repository and share it with us.
+
+## About codebase
 This recruitment assignment is designed to test your React knowledge and ability to complete a given task by adding new features to the "real", existing codebase. This application uses CSS-in-JS for styling and the React-context API for state management.
+As you start the project you will see first version of the "Rick & Morty widget" - a dead simple widget showing some basic data about characters from the show.
 
-You have about 7 days to complete the recruitment task (counting from the date of receipt of the e-mail with the details). This is your unique instance of the recruitment task, please apply your solution directly here. There is no need to fork it anywhere. A recruiter from TDSOFT will check it right after the specified time.
-
-Imagine the current application you see on the right (in the "Browser" tab) as the first version of the "Rick & Morty widget" - a dead simple widget showing some basic data about characters from the show.
-
-As a Junior Frontend Developer, your task is to create version 2 of this very widget. You have received the Figma project file and some work including rendering Rick Sanchez's information has already been done.
+As a Frontend Developer, your task is to create version 2 of this very widget. 
+You have received the Figma project file and some work including rendering Rick Sanchez's information has already been done.
 
 # The Task 👨‍💻
 
