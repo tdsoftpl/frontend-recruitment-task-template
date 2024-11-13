@@ -8,7 +8,7 @@
 2. Work on the task in separate branch
 3. Once you're done, create a pull request to the `main` branch of your repository and share it with us.
 
-## About codebase
+## About codebase 🔎
 This recruitment assignment is designed to test your React knowledge and ability to complete a given task by adding new features to the "real", existing codebase. This application uses CSS-in-JS for styling and the React-context API for state management.
 As you start the project you will see first version of the "Rick & Morty widget" - a dead simple widget showing some basic data about characters from the show.
 
